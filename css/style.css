@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Rubik',
+    sans-serif;
+}
+
+/* Logo css  */
+.navbar-brand  {
+    font-size: 2rem;
+}
+
+.registerBtn{
+    border: 2px solid #ffc107;
+    border-radius: 10px;
+}
+
+/* hero figure css  */
+.hero-figure .row .col-md-6 {
+    margin: auto;
+}
+
+.hero-figure img {
+    height: 400px;
+    border-radius: 2rem;
+}
+
+footer {
+    background: #116dfa;
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 2rem;
+    color: white;
+}
+
+footer h2 {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    display: inline;
+}
+
+footer p a {
+    text-decoration: none;
+    text-decoration: none;
+    padding: 0.3rem;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    color: white;
+    transition: all 0.5s;
+}
+
+footer p a:hover{
+    background: white;
+    color: #116dfa;
+}
