@@ -10,6 +10,10 @@ body {
     sans-serif;
 }
 
+nav{
+    margin: 0.1rem 0.5rem;
+}
+
 /* Logo css  */
 .navbar-brand  {
     font-size: 2rem;
@@ -35,7 +39,7 @@ footer {
     padding: 2rem;
     border-radius: 1rem;
     text-align: center;
-    margin: 2rem;
+    margin: 2rem 1rem 0.1rem 1rem;
     color: white;
 }
 
